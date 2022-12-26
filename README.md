@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **CSS, HTML, JavaScript & Ruby**
 
-- 👨‍💻 All of my projects are available at [my Personal portfolio](my Personal portfolio)
+- 👨‍💻 All of my projects are available at my Personal portfolio.
 
 - 📫 How to reach me **kermichievmarko@gmail.com**
 
