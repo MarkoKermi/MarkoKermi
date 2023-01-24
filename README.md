@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marko Kermichiev</h1>
-<h3 align="center">A passionate Full-Stack Developer from North Macedonia</h3>
+<h3 align="center">A passionate Developer from North Macedonia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markokermi&label=Profile%20views&color=0e75b6&style=flat" alt="markokermi" /> </p>
 
@@ -8,6 +8,8 @@
 - 🔭 I’m currently working on **Microverse tasks projects**
 
 - 🌱 I’m currently learning **CSS, HTML, JavaScript & Ruby**
+
+- 🌱 I am looking to collaborate on Front-End projects ( Full-Stack coming soon...)
 
 - 👨‍💻 All of my projects are available at my Personal portfolio.
 
@@ -30,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markokermi&show_icons=true&locale=en" alt="markokermi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markokermi&" alt="markokermi" /></p>
+
+<h3 align="left">Show your support!</h3>
+Thank you for visiting my profile, I appreciate your support giving a ⭐.
