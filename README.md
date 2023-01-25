@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at my Personal portfolio.
 
-- 📫 How to reach me **kermichievmarko@gmail.com**
+- 📫 How to reach me **kermicievmarko@gmail.com**
 
 - ⚡ Fun fact **I love to learn new things.**
 
